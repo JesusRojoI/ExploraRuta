@@ -1,5 +1,6 @@
 'use client';
 
+import { useId } from 'react';
 import { useI18n } from '@/lib/i18n';
 
 interface BrandLogoProps {
@@ -14,6 +15,7 @@ export default function BrandLogo({
   className = '',
 }: BrandLogoProps) {
   const { t } = useI18n();
+  const forkMaskId = `fork-${useId().replace(/[^a-zA-Z0-9_-]/g, '')}`;
 
   return (
     <span
@@ -23,11 +25,37 @@ export default function BrandLogo({
       aria-label={t('common.brand')}
     >
       <span className="brand-mark" aria-hidden="true">
+        {/* A destination pin carved with a fork: exploration and gastronomy in one mark. */}
         <svg viewBox="0 0 64 64" fill="none">
-          <path d="M7 17 19 48 31 17" />
-          <path d="M54 22c-3-3.7-7.3-5.5-12-4.8-8.5 1.2-13.2 9.8-11.2 18.3 2 8.4 10.1 13.7 18.1 10.6 2-.8 3.7-2 5.1-3.6" />
-          <path d="M48 9.5c-3 0-5.4 2.4-5.4 5.4 0 3.8 5.4 9 5.4 9s5.4-5.2 5.4-9c0-3-2.4-5.4-5.4-5.4Z" />
-          <circle cx="48" cy="14.8" r="1.3" fill="currentColor" stroke="none" />
+          <defs>
+            <mask
+              id={forkMaskId}
+              maskUnits="userSpaceOnUse"
+              x="0"
+              y="0"
+              width="64"
+              height="64"
+            >
+              <rect width="64" height="64" fill="#fff" stroke="none" />
+              <g
+                fill="none"
+                stroke="#000"
+                strokeWidth="3.6"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M24 14V23M32 13V25M40 14V23" />
+                <path d="M24 23C27 23 29 25 32 25C35 25 37 23 40 23" />
+                <path d="M32 25V46" />
+              </g>
+            </mask>
+          </defs>
+          <path
+            d="M32 57C32 57 51 38 51 25A19 19 0 1 0 13 25C13 38 32 57 32 57Z"
+            fill="currentColor"
+            stroke="none"
+            mask={`url(#${forkMaskId})`}
+          />
         </svg>
       </span>
       {!compact && (

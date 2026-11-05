@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { DM_Sans, DM_Serif_Display } from 'next/font/google';
+import localFont from 'next/font/local';
 import { cookies } from 'next/headers';
 import './globals.css';
 import { Providers } from './providers';
@@ -8,18 +8,33 @@ import Footer from '@/components/Footer';
 import ScrollProgress from '@/components/ScrollProgress';
 import type { Locale } from '@/types';
 
-const displayFont = DM_Serif_Display({
-  subsets: ['latin'],
+const displayFont = localFont({
+  src: [
+    {
+      path: './fonts/dm-serif-display-latin.woff2',
+      weight: '400',
+      style: 'normal',
+    },
+    {
+      path: './fonts/dm-serif-display-latin-italic.woff2',
+      weight: '400',
+      style: 'italic',
+    },
+  ],
   variable: '--font-sora',
   display: 'swap',
-  weight: '400',
-  style: ['normal', 'italic'],
+  fallback: ['Georgia', 'Times New Roman', 'serif'],
+  adjustFontFallback: 'Times New Roman',
 });
 
-const bodyFont = DM_Sans({
-  subsets: ['latin'],
+const bodyFont = localFont({
+  src: './fonts/dm-sans-latin.woff2',
+  weight: '100 1000',
+  style: 'normal',
   variable: '--font-manrope',
   display: 'swap',
+  fallback: ['system-ui', 'Segoe UI', 'Arial', 'sans-serif'],
+  adjustFontFallback: 'Arial',
 });
 
 const siteUrl =
