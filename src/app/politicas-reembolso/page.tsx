@@ -7,5 +7,5 @@ export const metadata: Metadata = {
 };
 
 export default function RefundPage() {
-  return <LegalPage titleKey="legal.refundTitle" />;
+  return <LegalPage docKey="refund" />;
 }

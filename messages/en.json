@@ -476,7 +476,1209 @@
     "refundTitle": "Refund Policy",
     "pending": "Content pending.",
     "back": "Back home",
-    "updated": "Last updated"
+    "updated": "Last updated",
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "November 2026",
+      "intro": [
+        "At Explora Ruta we are committed to protecting the privacy and security of the personal data you provide to us through our website, contact forms, quote requests, reservations, and other means of communication related to our tourism and entertainment services.",
+        "The purpose of this Privacy Policy is to inform you about what personal data we collect, what we use it for, how we protect it, and what your rights are with respect to such data."
+      ],
+      "sections": [
+        {
+          "heading": "1. Controller of the processing of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The party responsible for the processing and protection of your personal data is:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Trade name: Explora Ruta",
+                "Address: Av. Revolución 1564, San Ángel, Álvaro Obregón, 01020 Ciudad de México, CDMX",
+                "Email: atencion@exploraruta.com.mx",
+                "Phone: +52 1 55 5662 5469"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "For any matter related to this Privacy Policy or to the processing of your personal data, you may contact us at the email address atencion@exploraruta.com.mx."
+            }
+          ]
+        },
+        {
+          "heading": "2. Personal data we may collect",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Depending on the interaction you have with us, we may collect the following categories of personal data:"
+            },
+            {
+              "type": "p",
+              "text": "Identification and contact data"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full name.",
+                "Email address.",
+                "Telephone number.",
+                "Address or location (where applicable).",
+                "Information provided voluntarily through contact forms, chat, or direct communication channels."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Data related to the experience or service When you request a quote, we design an experience, or you contract any of our services, we may request information necessary to prepare and provide the experience, such as:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tentative dates of the service or event.",
+                "Destinations or venues of interest.",
+                "Preferences and requirements of the experience.",
+                "Type of service or package requested.",
+                "Number of participants or visitors.",
+                "Estimated budget.",
+                "Information necessary to coordinate and complete the corresponding reservation."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "We will only request the data that is necessary to attend to your request, prepare a proposal, manage a reservation, or provide the contracted services."
+            }
+          ]
+        },
+        {
+          "heading": "3. Sensitive personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta does not ordinarily request sensitive personal data through the website."
+            },
+            {
+              "type": "p",
+              "text": "In the event that, for the proper provision of a service, it is indispensable to know any data that may be considered sensitive under applicable legislation (such as medical specifications, mobility needs, or dietary restrictions for carrying out an activity), the corresponding consent will be requested where legally required, and it will be used solely for the specific purpose for which it was collected."
+            },
+            {
+              "type": "p",
+              "text": "We recommend that you do not provide sensitive information through contact forms that is not necessary to attend to your request."
+            }
+          ]
+        },
+        {
+          "heading": "4. Purposes of the processing",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The personal data you provide to us may be used for the following purposes:"
+            },
+            {
+              "type": "subheading",
+              "text": "Primary purposes"
+            },
+            {
+              "type": "p",
+              "text": "These are those necessary to attend to your request and provide our services:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Attend to questions, comments, and requests for information.",
+                "Respond to quote requests.",
+                "Design, customize, and manage the experiences and services requested.",
+                "Understand your interests, tentative dates, and budget in order to prepare tailored proposals.",
+                "Manage reservations, access, and schedule confirmations.",
+                "Follow up on the proposals made.",
+                "Coordinate the operational provision of the services.",
+                "Maintain communication with you before, during, and after the provision of the service.",
+                "Provide customer service, support, and technical or logistical assistance.",
+                "Manage payments, invoicing, and tax receipts where applicable.",
+                "Comply with legal and contractual obligations.",
+                "Attend to clarifications, cancellations, refunds, or requests related to the contracted services.",
+                "Maintain the necessary administrative and operational records."
+              ]
+            },
+            {
+              "type": "subheading",
+              "text": "Secondary purposes"
+            },
+            {
+              "type": "p",
+              "text": "Additionally, we may use your data to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Send information about new experiences, promotions, packages, and services.",
+                "Conduct satisfaction and service quality surveys.",
+                "Request opinions or comments about the experience.",
+                "Improve our services and customer service.",
+                "Prepare internal statistics and analyses of website usage.",
+                "Send commercial and advertising communications."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "If you do not wish your data to be used for any of the secondary purposes, you may state so at any time by sending an email to atencion@exploraruta.com.mx."
+            },
+            {
+              "type": "p",
+              "text": "Refusal to allow the use of your personal data for secondary purposes shall not be grounds for denying the services or products you have requested or contracted."
+            }
+          ]
+        },
+        {
+          "heading": "5. Legal basis for the processing",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The processing of your personal data shall be carried out in accordance with the Federal Law on the Protection of Personal Data Held by Private Parties (LFPDPPP) and other applicable Mexican legislation."
+            },
+            {
+              "type": "p",
+              "text": "Depending on the purpose, we will process your data based on:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Your express or tacit consent.",
+                "The need to perform or prepare a contract or the provision of a requested service.",
+                "Compliance with legal and administrative obligations.",
+                "Our legitimate interest in the improvement and security of the services, respecting your rights and freedoms at all times."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "6. Use of website forms",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Our website exploraruta.com.mx has forms through which you may provide data such as your name, email address, telephone number, and message in order to request information, quotes, or personalized assistance."
+            },
+            {
+              "type": "p",
+              "text": "The data provided through such forms will be used to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Identify and contact the requester.",
+                "Attend to the specific inquiry or requirement.",
+                "Prepare and send quotes or proposals.",
+                "Provide timely follow-up on requests."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "You must not provide personal information of third parties without the prior corresponding authorization of the data subject."
+            }
+          ]
+        },
+        {
+          "heading": "7. Transfer of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In order to design, coordinate, and execute certain experiences or services, we may share the strictly necessary data with suppliers and business partners that participate in the operation of the contracted services."
+            },
+            {
+              "type": "p",
+              "text": "These third parties may include, depending on the type of service:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Logistics and experience operators.",
+                "Guides, instructors, or operational personnel for the activities.",
+                "Transportation providers or access to venues/facilities.",
+                "Lodging, food, or complementary experience establishments.",
+                "Management platforms and intermediaries for tourism or entertainment services."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Where a transfer of data occurs, we will endeavor to share only the information indispensable to comply with the corresponding purpose and will require third parties to maintain the appropriate administrative, technical, and physical security measures in accordance with the law."
+            },
+            {
+              "type": "p",
+              "text": "Likewise, transfers may be carried out without requiring consent when they are required by a competent authority in accordance with law or when necessary for compliance with a legal obligation."
+            }
+          ]
+        },
+        {
+          "heading": "8. Technology service providers",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In order to operate our website exploraruta.com.mx and manage our digital operations, we may engage third-party technology service providers (web hosting servers, email platforms, data analytics tools, CRM systems, and payment gateways)."
+            },
+            {
+              "type": "p",
+              "text": "These providers will have access to the information only to the extent necessary to provide their services to Explora Ruta and under confidentiality and data protection commitments."
+            }
+          ]
+        },
+        {
+          "heading": "9. Payments and financial data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "When you make a payment related to our services through digital means, financial and bank card data will be processed directly by the authorized electronic payment platforms."
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta does not directly store or retain full credit or debit card numbers on its web servers. We will retain only the accounting information and receipts necessary for the verification of payments, invoicing, and applicable tax compliance."
+            }
+          ]
+        },
+        {
+          "heading": "10. Cookies and similar technologies",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Our website uses cookies, beacons, and similar technologies to facilitate navigation, personalize content, analyze site traffic, and improve your experience as a user."
+            },
+            {
+              "type": "p",
+              "text": "These technologies allow us to collect information such as:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "IP address and browser type.",
+                "Operating system and device type.",
+                "Pages visited within the site and time spent on them.",
+                "Links consulted and origin of the visit."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "You can configure or disable the use of cookies directly from your web browser settings. Please note that disabling certain cookies may affect the functionality or proper display of some sections of exploraruta.com.mx."
+            }
+          ]
+        },
+        {
+          "heading": "11. Retention of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "We will retain your personal data only for the time necessary to fulfill the purposes for which it was collected, as well as to comply with the corresponding legal, accounting, tax, and administrative obligations."
+            },
+            {
+              "type": "p",
+              "text": "Once the legal periods or the purpose of the processing have concluded, the information will be deleted, blocked, or anonymized in accordance with current regulations."
+            }
+          ]
+        },
+        {
+          "heading": "12. Security measures",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta implements and maintains administrative, technical, and physical security measures designed to protect your personal data against damage, loss, alteration, destruction, unauthorized use, access, or processing."
+            },
+            {
+              "type": "p",
+              "text": "Access to personal information is restricted exclusively to authorized personnel and collaborators who require knowledge of it to perform their duties related to the purposes indicated."
+            }
+          ]
+        },
+        {
+          "heading": "13. ARCO rights (Access, Rectification, Cancellation, and Objection)",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "As the data subject, you have the right to exercise your ARCO rights in accordance with applicable legislation:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Access: To know what personal data we have recorded, what we use it for, and the conditions of its use.",
+                "Rectification: To request the correction of your personal information where it is out of date, inaccurate, or incomplete.",
+                "Cancellation: To request the deletion of your data from our records when you consider that it is not being used in accordance with the legal principles and duties.",
+                "Objection: To object to the use of your personal data for specific purposes (for example, marketing purposes)."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "To exercise any of the ARCO rights, you must send a formal request to the email address: atencion@exploraruta.com.mx."
+            },
+            {
+              "type": "p",
+              "text": "The request must include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full name of the data subject and contact means to notify the response (email address).",
+                "Official identification document proving the identity of the data subject or the legal representation.",
+                "Clear and precise description of the personal data with respect to which any of the ARCO rights is being exercised.",
+                "Any element or document that facilitates the location of the data."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "We will attend to and resolve your request in accordance with the periods established by the Federal Law on the Protection of Personal Data Held by Private Parties."
+            }
+          ]
+        },
+        {
+          "heading": "14. Revocation of consent",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "You may revoke at any time the consent you have granted us for the processing of your personal data by sending an email to atencion@exploraruta.com.mx."
+            },
+            {
+              "type": "p",
+              "text": "It is important to consider that revocation of consent does not have retroactive effects and that in certain cases we will not be able to conclude the processing immediately if there is a legal or contractual obligation requiring us to retain the information."
+            }
+          ]
+        },
+        {
+          "heading": "15. Limitation of the use or disclosure",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "If you wish to limit the use or disclosure of your personal data in order to stop receiving advertising, promotional notices, or newsletters by email, you may send us your request at atencion@exploraruta.com.mx or use the unsubscribe link included at the bottom of the informational emails we send you."
+            }
+          ]
+        },
+        {
+          "heading": "16. Protection of minors",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The services offered through our website are not directly and independently addressed to minors."
+            },
+            {
+              "type": "p",
+              "text": "In cases where data of minors is collected for the logistics or contracting of an experience requested by a father, mother, guardian, or legal representative, such information will be treated with strict confidentiality and solely for the purposes of the contracted service."
+            }
+          ]
+        },
+        {
+          "heading": "17. Changes to this Privacy Policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta reserves the right to make changes or updates to this Privacy Policy at any time in order to address legislative or jurisprudential developments, internal policies, or new requirements for the provision of our services."
+            },
+            {
+              "type": "p",
+              "text": "Any change or update will be permanently available for consultation on the website:https://exploraruta.com.mx/"
+            }
+          ]
+        },
+        {
+          "heading": "18. Consent",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "By browsing our website, submitting contact forms, requesting quotes, or contracting the services offered by Explora Ruta, you acknowledge that you have read and understood this Privacy Policy and express your agreement with the terms and conditions set forth herein."
+            }
+          ]
+        },
+        {
+          "heading": "19. Contact details",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "If you have questions, comments, or wish to exercise your rights related to the protection of your personal data, you may contact the responsible area at:"
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Address: Av. Revolución 1564, San Ángel, Álvaro Obregón, 01020 Ciudad de México, CDMX",
+                "Email: atencion@exploraruta.com.mx",
+                "Phone: +52 1 55 5662 5469",
+                "Website: exploraruta.com.mx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "lastUpdated": "November 2026",
+      "intro": [
+        "Welcome to Explora Ruta. By accessing, browsing, or using our website exploraruta.com.mx, as well as by requesting, reserving, or contracting any of our tourism and entertainment services, you accept these Terms and Conditions.",
+        "We recommend that you read them carefully before making any request, reservation, or contracting."
+      ],
+      "sections": [
+        {
+          "heading": "1. General information",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta offers services related to the planning, design, coordination, and marketing of experiences, trips, and tourism or entertainment activities."
+            },
+            {
+              "type": "p",
+              "text": "Among the services we may offer are:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Design of personalized itineraries.",
+                "Cultural, thematic, and tourism experiences.",
+                "Visits to historical and archaeological sites.",
+                "Ecotourism and adventure activities.",
+                "Beach experiences and water activities.",
+                "Gastronomic experiences.",
+                "Wine routes and tastings.",
+                "Artistic experiences and cultural events.",
+                "Urban and entertainment activities.",
+                "Logistical coordination of tourism services and personalized experiences."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "The availability and characteristics of each service will depend on the experience, destination, date, participating suppliers, and specific conditions of the contracting."
+            }
+          ]
+        },
+        {
+          "heading": "2. Acceptance of the Terms and Conditions",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "By using this website or contracting any of our services, you declare that:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "You have read and understood these Terms and Conditions.",
+                "You accept to be bound by them in their entirety.",
+                "You provide truthful, accurate, and up-to-date information.",
+                "You have full legal capacity to contract the requested services.",
+                "In the event of contracting on behalf of third parties or a group of travelers/participants, you have the corresponding prior legal authorization."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "If you do not agree with any of these terms, you must refrain from using the site or contracting our services."
+            }
+          ]
+        },
+        {
+          "heading": "3. Website information",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "We endeavor to ensure that the information published on our website exploraruta.com.mx is clear, up to date, and accurate."
+            },
+            {
+              "type": "p",
+              "text": "However, the photographs, descriptions, schedules, prices, availability, and characteristics of certain experiences may be subject to changes due to operational, weather, or seasonal conditions, supplier availability, or other circumstances beyond our control."
+            },
+            {
+              "type": "p",
+              "text": "The information shown on the website is of an orientation and informational nature and does not necessarily constitute a definitive confirmation of reservation. Contracting will be considered confirmed only when Explora Ruta issues and expressly communicates the corresponding confirmation."
+            }
+          ]
+        },
+        {
+          "heading": "4. Quotes",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Requests made through the website, email, telephone, or other means of contact may generate a personalized quote."
+            },
+            {
+              "type": "p",
+              "text": "Quotes will depend on factors such as:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Number of participants or travelers.",
+                "Scheduled dates for the experience or trip.",
+                "Destination or venue.",
+                "Type of experience or package selected.",
+                "Availability.",
+                "Services included and additional services requested.",
+                "Participating suppliers.",
+                "High/low season.",
+                "Transportation, lodging, access, or other service conditions."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "A quote does not in itself constitute a confirmed reservation. The prices and conditions indicated in a quote will have the validity period stated therein. If no specific validity period is indicated, they will be subject to availability and may be modified before the formal confirmation of the reservation."
+            }
+          ]
+        },
+        {
+          "heading": "5. Reservations",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "A reservation will be considered confirmed once the client has expressly complied with the conditions indicated in the quote or confirmation voucher."
+            },
+            {
+              "type": "p",
+              "text": "Depending on the service, the following may be required:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full payment for the service.",
+                "Payment of a deposit or security deposit.",
+                "Confirmation of the identification data of the participants.",
+                "Express acceptance of the particular conditions of the experience.",
+                "Compliance with specific requirements established by the final suppliers."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Sending a request through forms or email does not guarantee the reservation of the capacity or date until its timely confirmation and receipt of payment."
+            }
+          ]
+        },
+        {
+          "heading": "6. Prices and payments",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The prices of our services will be indicated in the quote, service page, or corresponding means of contracting."
+            },
+            {
+              "type": "p",
+              "text": "Prices may vary depending on the date, availability, number of participants, season, and conditions of the suppliers involved."
+            },
+            {
+              "type": "p",
+              "text": "When an experience requires advance payment, the validity of the reservation will be subject to the receipt and validation of the corresponding payment by the finance department of Explora Ruta."
+            },
+            {
+              "type": "p",
+              "text": "The client is responsible for providing correct information to process the payment and for retaining their receipts. When the payment is processed through external gateways, the terms and conditions of such payment platform will also apply."
+            }
+          ]
+        },
+        {
+          "heading": "7. Services included and not included",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Each experience or itinerary will have particular specifications regarding the services included. The client must carefully review the proposal or quote before confirming the contracting."
+            },
+            {
+              "type": "p",
+              "text": "Unless expressly indicated in the written confirmation, the following are understood as NOT included expenses:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Personal expenses of any kind.",
+                "Tips for guides, drivers, or service personnel.",
+                "Food and beverages not explicitly specified in the program.",
+                "Tickets to attractions, venues, or additional activities not listed.",
+                "Additional services requested after the contracting.",
+                "Expenses arising from modifications to the itinerary requested by the client.",
+                "Additional costs caused by delays, cancellations, or faults attributable to the client."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "8. Changes requested by the client",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The client may request modifications or changes to their reservation or scheduled itinerary."
+            },
+            {
+              "type": "p",
+              "text": "The feasibility of applying such changes will be subject to technical and operational availability and to the policies of the suppliers involved. Any change may generate additional costs, penalties, or rate differences that must be covered in full by the client before the provision of the service."
+            }
+          ]
+        },
+        {
+          "heading": "9. Cancellations by the client",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The conditions and charges applicable for cancellation will depend on the type of service contracted and on the terms of the suppliers involved."
+            },
+            {
+              "type": "p",
+              "text": "At the time of confirming the reservation, the specific cancellation, refund, or rescheduling conditions will be informed. If the cancellation generates penalties or non-refundable expenses on the part of third parties (hotels, carriers, parks, etc.), such amounts will be deducted from the amount that could correspond to a refund."
+            },
+            {
+              "type": "p",
+              "text": "Any cancellation request must be sent in writing to the email address:atencion@exploraruta.com.mx"
+            }
+          ]
+        },
+        {
+          "heading": "10. Refunds",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Where a refund is applicable, it will be processed in accordance with the conditions of the reservation and the policies of the external suppliers involved."
+            },
+            {
+              "type": "p",
+              "text": "Not all tourism or entertainment services are refundable. The refund processing times will depend on the payment method used, gateways, and the operational times of the financial institutions. Bank or transactional commissions generated by the payment or refund will not be refundable unless otherwise provided by law."
+            }
+          ]
+        },
+        {
+          "heading": "11. Cancellations or changes by Explora Ruta",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In extraordinary circumstances or circumstances of force majeure, Explora Ruta or the operational suppliers may modify, reschedule, or cancel an experience."
+            },
+            {
+              "type": "p",
+              "text": "This may occur due to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Adverse weather conditions or meteorological risks.",
+                "Natural phenomena or environmental contingencies.",
+                "Local or national security situations.",
+                "Unforeseen closures of tourist sites, venues, or highways.",
+                "Unforeseeable technical or operational failures.",
+                "Circumstances of force majeure or unforeseeable circumstances."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "In these cases, the client will be informed in a timely manner and priority will be given to rescheduling the service or substituting it with an alternative of similar value. In the event of definitive cancellation without a viable alternative, the corresponding refund criteria will apply in accordance with the conditions of the service."
+            }
+          ]
+        },
+        {
+          "heading": "12. External suppliers",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "For the comprehensive provision of certain experiences, Explora Ruta acts as an intermediary or coordinator vis-à-vis specialized external suppliers (such as hotels, restaurants, carriers, local guides, theme parks, and adventure operators)."
+            },
+            {
+              "type": "p",
+              "text": "Such third parties have their own terms of service, internal regulations, and safety measures, which must be complied with by the participants during the development of the experience."
+            }
+          ]
+        },
+        {
+          "heading": "13. Responsibility of the traveler or user",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The user or client undertakes to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Provide truthful, accurate, and complete information for the management of their reservation.",
+                "Arrive punctually at the established meeting points and times.",
+                "Carry the required official documentation throughout the journey or experience.",
+                "Follow at all times the recommendations and instructions of the personnel in charge, guides, and instructors.",
+                "Respect the rules of conduct, facilities, and heritage of the areas or sites visited.",
+                "Notify in a timely manner of any medical condition or special requirement."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Lack of punctuality, the absence of required documentation, or non-observance of safety rules may result in the loss of the activity without entitlement to compensation or refund."
+            }
+          ]
+        },
+        {
+          "heading": "14. Documentation and travel requirements",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "It is the sole responsibility of the participant to have valid official documentation (official identification, passports, visas, permits, or health certificates) as required by the authorities for carrying out the experience or transfer."
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta may provide general guidance on the requirements, but will not assume responsibility for the denial of access or boarding derived from the client's failure to comply with the requirements."
+            }
+          ]
+        },
+        {
+          "heading": "15. Adventure activities and physical activities",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Certain experiences may involve the practice of sports, hiking, water, or adventure activities that carry an inherent risk."
+            },
+            {
+              "type": "p",
+              "text": "By participating in these activities, the client declares that they are in adequate physical and health conditions for their development and undertakes to rigorously comply with the use of protective equipment and with safety protocols. Explora Ruta or the operator in charge may restrict the participation of a user if it is determined that their condition compromises their safety or that of the group."
+            }
+          ]
+        },
+        {
+          "heading": "16. Personal belongings",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The client is responsible for the care and safekeeping of their personal belongings, electronic devices, luggage, and valuables during the provision of the services or transfers."
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta is not responsible for loss, theft, misplacement, or damage to the users' personal objects during the development of the activities, except where there is direct liability attributable to proven gross negligence in accordance with applicable legislation."
+            }
+          ]
+        },
+        {
+          "heading": "17. Force majeure and unforeseeable circumstances",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta will not be responsible for non-compliance or delay in the obligations undertaken when this is caused by events beyond its reasonable control, such as natural disasters, severe meteorological events, strikes, road blockades, health emergencies, acts of authorities, or general failures in transportation and public service networks."
+            }
+          ]
+        },
+        {
+          "heading": "18. Intellectual property",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "All visual and textual content, trademarks, logos, graphic elements, site design, photographs, and source code of exploraruta.com.mx are the exclusive property of Explora Ruta or are duly licensed for use."
+            },
+            {
+              "type": "p",
+              "text": "The reproduction, copying, distribution, or commercialization of any element of the website without the prior written authorization of Explora Ruta is strictly prohibited."
+            }
+          ]
+        },
+        {
+          "heading": "19. Proper use of the website",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The user undertakes to use the website in accordance with the law and morality. It is prohibited to introduce viruses, carry out cyberattacks, extract mass data through scraping, or use the forms to send false, misleading, or spam information."
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta reserves the right to restrict or block access to the site for any user who makes improper use of the platform."
+            }
+          ]
+        },
+        {
+          "heading": "20. Links to third parties",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Our website may contain links to pages or platforms operated by third parties. Explora Ruta does not exercise control over the contents, terms, or privacy policies of such external sites, and therefore access to them is under the user's responsibility."
+            }
+          ]
+        },
+        {
+          "heading": "21. Protection of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The collection and processing of your personal data through the website or during the contracting of our services is governed by the provisions of our Privacy Policy."
+            }
+          ]
+        },
+        {
+          "heading": "22. Communications",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Any formal communication related to quotes, clarifications, reservations, changes, or cancellations must be made in writing via the email address atencion@exploraruta.com.mx or through the official channels indicated on the site."
+            },
+            {
+              "type": "p",
+              "text": "It is the client's responsibility to keep their contact details up to date in order to receive notifications about their contracted services."
+            }
+          ]
+        },
+        {
+          "heading": "23. Changes to the Terms and Conditions",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta reserves the right to update or modify these Terms and Conditions at any time without prior notice in order to adapt them to legislative or jurisprudential developments or changes in commercial operations."
+            },
+            {
+              "type": "p",
+              "text": "The updated version will always be available on the website exploraruta.com.mx. The modifications will not affect the conditions of services that have been previously confirmed, except for legal provisions or causes of force majeure."
+            }
+          ]
+        },
+        {
+          "heading": "24. Applicable law and jurisdiction",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "These Terms and Conditions are governed by and construed in accordance with the laws in force in the United Mexican States. For the resolution of any controversy arising from the use of the website or the provision of our services, the parties agree to expressly submit to the jurisdiction of the competent courts in Mexico City, waiving any other venue that might correspond to them by reason of their present or future domiciles."
+            }
+          ]
+        },
+        {
+          "heading": "25. Contact details",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "For any question, clarification, or comment related to these Terms and Conditions, you may contact us:"
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Address: Av. Revolución 1564, San Ángel, Álvaro Obregón, 01020 Ciudad de México, CDMX",
+                "Email: atencion@exploraruta.com.mx",
+                "Phone: +52 1 55 5662 5469",
+                "Website: exploraruta.com.mx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "refund": {
+      "title": "Refund and Returns Policy",
+      "lastUpdated": "November 2026",
+      "intro": [
+        "At Explora Ruta we seek to provide high-quality tourism and entertainment experiences, with clear planning and personalized attention throughout the entire process. Due to the nature of the services, the cancellation, modification, and refund conditions may vary depending on the type of experience, the reservation date, and the suppliers involved.",
+        "This Refund and Returns Policy sets forth the conditions applicable to requests for cancellation, modification, and refund of the services contracted with Explora Ruta."
+      ],
+      "sections": [
+        {
+          "heading": "1. Scope of the policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "This policy applies to all services and experiences contracted through Explora Ruta, including personalized itineraries, tours, cultural activities, nature and adventure experiences, water activities, gastronomic experiences, tastings, urban events, and other tourism or operational services offered."
+            },
+            {
+              "type": "p",
+              "text": "Each reservation may be subject to particular conditions that will be communicated to the client before confirming the service."
+            }
+          ]
+        },
+        {
+          "heading": "2. General conditions",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "All services are subject to availability at the time the reservation is made."
+            },
+            {
+              "type": "p",
+              "text": "Because certain experiences require the engagement or coordination of external suppliers (such as carriers, venues, guides, or lodging establishments), the cancellation and refund conditions depend to a large extent on the policies established by such third parties."
+            },
+            {
+              "type": "p",
+              "text": "Before making a payment or confirming a reservation, it is recommended that you carefully review the specific conditions indicated in the quote or service confirmation. Acceptance of a quote and the corresponding payment imply implicit acceptance of the particular conditions applicable to the contracted experience."
+            }
+          ]
+        },
+        {
+          "heading": "3. Cancellation requests",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "All cancellation requests must be made formally in writing via the email address:atencion@exploraruta.com.mx"
+            },
+            {
+              "type": "p",
+              "text": "The request must include the following data:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full name of the person who made the reservation.",
+                "Reservation or quote number or reference.",
+                "Scheduled date for the experience.",
+                "Service or package contracted.",
+                "Reason for the cancellation.",
+                "Contact details for following up on the request."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "The date and time on which Explora Ruta receives the request by email will be the one officially considered to determine the eligibility and the applicable cancellation percentages or charges."
+            }
+          ]
+        },
+        {
+          "heading": "4. Cancellations eligible for refund",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Where the particular conditions of the experience allow a cancellation with refund, the corresponding amount will be determined in accordance with:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "The advance notice with which the cancellation is requested prior to the service date.",
+                "The type of service or package contracted.",
+                "The conditions expressly informed in the quote or confirmation.",
+                "The administrative or management expenses already incurred.",
+                "The non-refundable amounts withheld by external suppliers."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Where a partial refund applies, the amounts, service charges, bank commissions, or penalties that are not recoverable will be deducted."
+            }
+          ]
+        },
+        {
+          "heading": "5. Non-refundable services",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Some services may be totally or partially non-refundable due to contractual commitments with third parties or to the limited-capacity nature of the experience."
+            },
+            {
+              "type": "p",
+              "text": "These may include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tickets to parks, venues, historical sites, or tourist attractions.",
+                "Activities with limited capacity or exclusive-date reservations.",
+                "Gastronomic experiences or tastings with ingredients prepared in advance.",
+                "Private transportation services contracted on demand.",
+                "Lodging reservations under non-refundable rates.",
+                "Water or adventure activities with dedicated instructors or guides.",
+                "Services acquired under promotions, discounts, or special rates.",
+                "Any item expressly designated as \"non-refundable\" in the quote or confirmation."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "6. Date changes and rescheduling",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The client may request a date change for their experience. The feasibility of making the change will depend on:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Availability of capacity and dates in the schedule for the new requested date.",
+                "Rescheduling conditions and policies of the participating suppliers.",
+                "Type of service or rate contracted.",
+                "The advance notice with which the request is sent.",
+                "Price or rate differences applicable according to the season."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Changes requested by the client may generate additional charges or rate adjustments where applicable. A date change will not be considered confirmed until Explora Ruta expressly communicates it to the client in writing."
+            }
+          ]
+        },
+        {
+          "heading": "7. Adjustments to the itinerary",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Itineraries may be adjusted before or during the provision of the service due to weather, logistical, operational, or safety reasons, or causes of force majeure."
+            },
+            {
+              "type": "p",
+              "text": "When it is necessary to make a modification to the itinerary, efforts will be made to maintain the main objective of the experience and to offer an equivalent alternative. Changes or additions requested directly by the client during the development of the experience will generate additional costs that must be covered by the client."
+            }
+          ]
+        },
+        {
+          "heading": "8. Cancellation due to weather conditions",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Certain outdoor experiences, in natural, water, or adventure environments, depend directly on weather conditions."
+            },
+            {
+              "type": "p",
+              "text": "When weather conditions represent a risk to the integrity of the participants or prevent the safe conduct of the activity, Explora Ruta or the operator in charge may modify, reschedule, or cancel the experience."
+            },
+            {
+              "type": "p",
+              "text": "In these cases, priority will be given to rescheduling the activity to a later date. If rescheduling is not possible and a refund applies in accordance with the conditions of the suppliers involved, the client will be informed of the credit balance or the applicable refund procedure."
+            }
+          ]
+        },
+        {
+          "heading": "9. Cancellation due to force majeure or unforeseeable circumstances",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "An experience may be modified, rescheduled, or canceled due to circumstances beyond the reasonable control of Explora Ruta, such as natural disasters, health emergencies, government restrictions, road or venue closures, demonstrations, or serious failures in the local infrastructure."
+            },
+            {
+              "type": "p",
+              "text": "In such situations, Explora Ruta will provide the assistance possible in order to offer rescheduling alternatives, credits in favor, or solutions coordinated with the direct suppliers."
+            }
+          ]
+        },
+        {
+          "heading": "10. Cancellations by Explora Ruta",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In exceptional circumstances, Explora Ruta may cancel an experience when it is not possible to guarantee its safe provision or provision with the corresponding quality standards."
+            },
+            {
+              "type": "p",
+              "text": "If this situation arises, the client will be notified immediately and offered:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Rescheduling of the experience to another date at no additional cost.",
+                "Substitution with an alternative experience or package of equivalent value.",
+                "A credit in favor to be used on future services.",
+                "Refund of the amount paid subject to the recovery of the funds committed to third parties."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "11. Client no-show (No Show)",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "If the client or the participants do not show up at the meeting point, place, and time established in the service confirmation, the reservation will be considered used (No Show)."
+            },
+            {
+              "type": "p",
+              "text": "A no-show will not give rise to a refund, return, or rescheduling of the service, since the resources, personnel, and logistics remain reserved exclusively for the group or participant. It is recommended that you arrive at least 15 minutes before the agreed time."
+            }
+          ]
+        },
+        {
+          "heading": "12. Delays by the client",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Delays caused by the client may affect the development of the scheduled itinerary."
+            },
+            {
+              "type": "p",
+              "text": "If a delay causes the loss of an activity, reservation, entry to a venue, or transportation service, the additional costs generated for the restructuring of the service will be the sole responsibility of the client. Operational personnel will not be obligated to extend the duration of the service to compensate for time lost due to the user's delay."
+            }
+          ]
+        },
+        {
+          "heading": "13. Non-refundable expenses",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Under no circumstances will the following items be subject to refund or return:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Personal expenses of any kind incurred during the trip or activity.",
+                "Tips for guides, drivers, or service personnel.",
+                "Food, beverages, or purchases not included by origin in the contracted package.",
+                "Additional tickets or activities contracted at the client's expense outside the program.",
+                "Transportation expenses to the initial meeting point when this is not part of the contracted service.",
+                "Payment commissions, transfers, or exchange rate differences charged by banking institutions."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "14. Refunds for third-party services",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "When a service is provided totally or partially by an external supplier, the refund will be subject to the conditions and response times of such third party. Explora Ruta will act as an intermediary to manage the refund request, but the final resolution time will depend on the internal processes of each supplier company."
+            }
+          ]
+        },
+        {
+          "heading": "15. Refund method and times",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Where a refund applies, it will preferably be processed through the same payment method used for the original purchase (bank transfer or credit/debit card)."
+            },
+            {
+              "type": "p",
+              "text": "The time reflected in the client's account or statement will depend on the corresponding financial institution or payment gateway. Explora Ruta will not assume responsibility for crediting periods that depend on the issuing banks."
+            }
+          ]
+        },
+        {
+          "heading": "16. Procedure for refund requests",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Any formal refund request must be sent to:atencion@exploraruta.com.mx"
+            },
+            {
+              "type": "p",
+              "text": "Once the complete information has been received, our team will evaluate the case within a reasonable period and will notify the client in writing of the eligibility of the request, itemizing, where applicable, the amounts to be refunded and the concepts applied."
+            }
+          ]
+        },
+        {
+          "heading": "17. Changes to this policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Explora Ruta reserves the right to modify or update this Refund and Returns Policy at any time to reflect changes in our operations, supplier alliances, or legislative updates."
+            },
+            {
+              "type": "p",
+              "text": "The current version will be available for consultation at all times at:https://exploraruta.com.mx/"
+            }
+          ]
+        },
+        {
+          "heading": "18. Acceptance",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "By making a reservation, deposit, or contracting with Explora Ruta, the client acknowledges having read, understood, and fully accepted the cancellation, modification, and refund conditions set forth herein."
+            }
+          ]
+        },
+        {
+          "heading": "19. Contact channels",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "For any question, clarification, cancellation request, or refund management, you may contact our customer service team:"
+            },
+            {
+              "type": "p",
+              "text": "Explora Ruta"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Address: Av. Revolución 1564, San Ángel, Álvaro Obregón, 01020 Ciudad de México, CDMX",
+                "Email: atencion@exploraruta.com.mx",
+                "Phone: +52 1 55 5662 5469",
+                "Website: exploraruta.com.mx"
+              ]
+            }
+          ]
+        }
+      ]
+    }
   },
   "footer": {
     "tagline": "Mexico, at your own pace.",

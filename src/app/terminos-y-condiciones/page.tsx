@@ -7,5 +7,5 @@ export const metadata: Metadata = {
 };
 
 export default function TermsPage() {
-  return <LegalPage titleKey="legal.termsTitle" />;
+  return <LegalPage docKey="terms" />;
 }

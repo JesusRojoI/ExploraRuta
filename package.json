@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "node scripts/dev.mjs",
     "build": "next build",
-    "start": "next start -p 4003",
+    "start": "node scripts/start.mjs",
     "lint": "next lint",
     "email:test": "node --env-file=.env scripts/check-email.mjs"
   },

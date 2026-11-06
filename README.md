@@ -34,7 +34,7 @@ La app de desarrollo abre en `http://localhost:3003`. Las credenciales viven
 | `NEXT_PUBLIC_SITE_URL` | URL pública del sitio. |
 | `NEXT_PUBLIC_CONTACT_EMAIL` | Correo de contacto mostrado en la interfaz. |
 | `NEXT_PUBLIC_CONTACT_PHONE` | Teléfono público (por defecto, +52 1 55 5662 5469). |
-| `PORT` | Puerto del servidor de desarrollo (`3003` por defecto). |
+| `PORT` | Puerto del servidor (`3003` en desarrollo y `4003` en producción, por defecto). |
 
 Si cambias las llaves de producción solo debes actualizar `.env`; la aplicación
 las lee en tiempo de ejecución.
@@ -83,4 +83,10 @@ la confirmación mientras se corrige la configuración.
 ```bash
 npm run build
 npm start
+```
+
+Si el puerto 4003 ya está ocupado, puedes iniciar el servidor en otro puerto:
+
+```bash
+PORT=4004 npm start
 ```
