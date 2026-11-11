@@ -40,8 +40,9 @@ const bodyFont = localFont({
 const siteUrl =
   process.env.NEXT_PUBLIC_SITE_URL || 'https://exploraruta.com.mx';
 
-export function generateMetadata(): Metadata {
-  const isEnglish = cookies().get('NEXT_LOCALE')?.value === 'en';
+export async function generateMetadata(): Promise<Metadata> {
+  const cookieStore = await cookies();
+  const isEnglish = cookieStore.get('NEXT_LOCALE')?.value === 'en';
   const title = isEnglish
     ? 'ExploraRuta · Taste Mexico through its regional cuisine'
     : 'ExploraRuta · México se descubre en la mesa';
@@ -112,12 +113,13 @@ export const viewport: Viewport = {
   initialScale: 1,
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const cookieLocale = cookies().get('NEXT_LOCALE')?.value;
+  const cookieStore = await cookies();
+  const cookieLocale = cookieStore.get('NEXT_LOCALE')?.value;
   const locale: Locale = cookieLocale === 'en' ? 'en' : 'es';
 
   return (
